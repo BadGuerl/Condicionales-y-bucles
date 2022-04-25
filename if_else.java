@@ -8,7 +8,7 @@ public class Main {
             System.out.println("El número es positivo");
         } else if (numeroIf < 0) {
             System.out.println("El número es negativo");
-        } else if (numeroIf == 0) {
+        } else {
             System.out.println("El número es 0");
         }
     }
